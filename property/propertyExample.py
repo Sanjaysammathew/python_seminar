@@ -1,4 +1,6 @@
 #A setter can only be attached to a method that has first been converted into a property
+# A setter is used to control or modify the value of a property.
+#A deleter is used to control what happens when a property is deleted using del.
 
 class Employee:
 
