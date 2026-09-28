@@ -1,3 +1,8 @@
+
+# A class method is a method that works with the class itself, rather than a particular object.
+
+# It uses the @classmethod decorator and takes cls as its first parameter.
+
 class Student:
 
     count = 0
